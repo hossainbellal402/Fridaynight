@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13238" started-at="2020-06-19T02:00:47 EDT" finished-at="2020-06-19T02:01:00 EDT">
+  <suite name="Default suite" duration-ms="14317" started-at="2020-06-20T11:53:30 EDT" finished-at="2020-06-20T11:53:44 EDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13238" started-at="2020-06-19T02:00:47 EDT" finished-at="2020-06-19T02:01:00 EDT">
+    <test name="Default test" duration-ms="14317" started-at="2020-06-20T11:53:30 EDT" finished-at="2020-06-20T11:53:44 EDT">
       <class name="fridaytry.Fridayhomepratice">
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:fridaytry.Fridayhomepratice@397ef2]" name="openBrowser" duration-ms="13062" started-at="2020-06-19T02:00:47 EDT" finished-at="2020-06-19T02:01:00 EDT">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:fridaytry.Fridayhomepratice@4b4523f8]" name="openBrowser" duration-ms="14232" started-at="2020-06-20T11:53:30 EDT" finished-at="2020-06-20T11:53:44 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
